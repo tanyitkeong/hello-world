@@ -2,5 +2,8 @@ Project Title
 This is a sample project created for learning Git
 
 Description
-Practice the Git command
+1. Practice the Git command
+2. Practice the remote info fetching
+   
+
 
